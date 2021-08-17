@@ -24,7 +24,7 @@ Un párrafo de la descripción del proyecto va aquí
 3.  * Si se encuentra desde linux en el archivo procfile y reemplace el contenido por el siguiente texto:
     
     ```
-    web: java $JAVA_OPTS -cp 'target/classes:target/dependency/*' edu.escuelaing.arem.App
+    web: java $JAVA_OPTS -cp 'target/classes:target/dependency/* edu.escuelaing.arem.App
     
     ```
     * Si se encuentra desde windows en el archivo procfile y reemplace el contenido por el siguiente texto:
@@ -36,12 +36,24 @@ Un párrafo de la descripción del proyecto va aquí
 
 ## Ejecutando las pruebas
 
-Explicar cómo ejecutar las pruebas automatizadas para este sistema.
+Corra la aplicación localmente emulando Heroku:
 
-## Implementación
+   * Ejecute el siguiente comando:
+     ```
+     mvn clean install
+     ```
+   
+   * Luego ejecute el siguiente comando para correr la aplicación en una version local del dispositivo en el que se encuentre:
+     ```
+     heroku local web
+     ```
+   * Se ve el despliege en el siguiente link:
+   http://localhost:5000/hello
+   
+## Directo con el link de heroku
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
-
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/desolate-bayou-20514)
+  
 ## Construido con
 
 * [Java]: Tecnología que se usa para el desarrollo de aplicaciones que convierten a la Web en un elemento más interesante y útil.
@@ -52,7 +64,7 @@ Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
 ## Autor
 
-*Ana Maria Salazar Bohorquez -  Trabajo inicial - (https://github.com/anamariasalazar/Heroku-Ana-Salazar)
+Ana Maria Salazar Bohorquez -  Trabajo inicial - (https://github.com/anamariasalazar/Heroku-Ana-Salazar)
 
 ## Licencia
 
