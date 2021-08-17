@@ -64,7 +64,7 @@ Corra la aplicación localmente emulando Heroku:
 
 ## Autor
 
-Ana Maria Salazar Bohorquez -  Trabajo inicial - (https://github.com/anamariasalazar/Heroku-Ana-Salazar)
+Ana Maria Salazar Bohorquez -  Trabajo - (https://github.com/anamariasalazar/Heroku-Ana-Salazar)
 
 ## Licencia
 
