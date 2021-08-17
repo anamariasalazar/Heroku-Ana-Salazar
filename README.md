@@ -2,10 +2,6 @@
 
 Un párrafo de la descripción del proyecto va aquí
 
-## Empezando
-
-Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento en su máquina local con fines de desarrollo y prueba. Consulte la implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
-
 ### Requisitos previos
 
 * Tener maven instalado
@@ -42,54 +38,27 @@ Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento 
 
 Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
-### Desglosar en pruebas de extremo a extremo
-
-Explique qué prueban estas pruebas y por qué
-
-''
-Dar un ejemplo
-''
-
-### Y pruebas de estilo de codificación
-
-Explique qué prueban estas pruebas y por qué
-
-''
-Dar un ejemplo
-''
-
 ## Implementación
 
 Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
 
 ## Construido con
 
-* [Dropwizard] (http://www.dropwizard.io/1.0.2/docs/): el marco web utilizado
-* [Maven] (https://maven.apache.org/) - Gestión de dependencias
-* [ROME] (https://rometools.github.io/rome/): se utiliza para generar fuentes RSS
+* [Java]: Tecnología que se usa para el desarrollo de aplicaciones que convierten a la Web en un elemento más interesante y útil.
+* [IntelliJ]: Es un entorno de desarrollo integrado (IDE) para el desarrollo de programas informáticos.
+* [Git]: Herramienta que realiza una función del control de versiones de código de forma distribuida
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [![Heroku] (https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/desolate-bayou-20514)
 
-## Contribuyendo
+## Autor
 
-Lea [CONTRIBUTING.md] (https://gist.github.com/PurpleBooth/b24679402957c63ec426) para obtener detalles sobre nuestro código de conducta y el proceso para enviarnos solicitudes de extracción.
-
-## Control de versiones
-
-Usamos [SemVer] (http://semver.org/) para el control de versiones. Para conocer las versiones disponibles, consulte las [etiquetas de este repositorio] (https://github.com/your/project/tags).
-
-## Autores
-
-* ** Billie Thompson ** - * Trabajo inicial * - [PurpleBooth] (https://github.com/PurpleBooth)
-
-Consulte también la lista de [contribuyentes] (https://github.com/your/project/contributors) que participaron en este proyecto.
+*Ana Maria Salazar Bohorquez -  Trabajo inicial - (https://github.com/anamariasalazar/Heroku-Ana-Salazar)
 
 ## Licencia
 
-Este proyecto tiene la licencia MIT. Consulte el archivo [LICENSE.md] (LICENSE.md) para obtener más detalles.
+**©️** Ana Maria Salazar Bohorquez etudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
 
-## Agradecimientos
+Licencia bajo la [GNU General Public License](/LICENSE.txt)
 
-* Sugerencia de sombrero para cualquier persona cuyo código se haya utilizado
-* Inspiración
-* etc
-  
+
 
