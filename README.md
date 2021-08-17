@@ -1,6 +1,8 @@
 ### Taller de Introducción a Heroku
 
-Un párrafo de la descripción del proyecto va aquí
+Taller para repasar Heroku, el manejo de repositorios en Git y Heroku, también vemos el Toolbelt de Heroku que permite manipular por medio de comandos la infraestructura en la
+nube donde desplegará su aplicación y se aprende del manejo de SparkWeb.
+
 
 ### Requisitos previos
 
